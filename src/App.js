@@ -103,7 +103,7 @@ window.process = {
       }
 
   const app = new Clarifai.App({
-    apiKey: 'dbf2710547434915b8d357b9969df30a'
+    apiKey: 'Your_Api_Key'
   });
 
 class App extends Component {
